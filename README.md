@@ -1,2 +1,8 @@
-# hand-gesture-tracker
-This project uses OpenCV and MediaPipe to detect hand landmarks, count fingers, and recognize gestures in real-time. It can identify gestures like "Thumbs Up", "Victory", "Pointing", "Rock", and more. The system provides live feedback by displaying detected gestures and finger counts, making it ideal for interactive applications.
+# Hand Gesture Tracker
+
+This project is a hand gesture tracker that uses Mediapipe and OpenCV to detect hand gestures and count the number of fingers being held up.
+
+## Installation
+
+1. Clone the repository or download the project folder.
+2. Install the required libraries:
